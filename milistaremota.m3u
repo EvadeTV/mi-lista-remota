@@ -171,6 +171,8 @@ http://190.90.154.125:8001/play/a0i6/index.m3u8
 http://190.90.154.125:8001/play/a0hd/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports Premiun HD
 http://190.90.154.125:8001/play/a0ht/index.m3u8
+#EXTINF:-1,TNT Sports HD
+http://181.209.95.30:8000/play/a0bk/index.m3u8
 #EXTINF:-1 group-title="-",TRO
 http://190.90.154.125:8001/play/a051/index.m3u8
 #EXTINF:-1 group-title="-",TV+ HD
