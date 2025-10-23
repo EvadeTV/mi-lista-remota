@@ -63,6 +63,10 @@ http://190.90.154.125:8001/play/a0g7/index.m3u8
 http://190.90.154.125:8001/play/a08l/index.m3u8
 #EXTINF:-1 group-title="-",ESPN
 http://190.90.154.125:8001/play/a08o/index.m3u8
+#EXTINF:-1 group-title="-",DSPORT 2 HD
+179.1.68.245:7600/play/a098/index.m3u8
+#EXTINF:-1 group-title="-",DSPORTS + HD
+179.1.68.245:7600/play/a08j/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 HD
 http://190.90.154.125:8001/play/a0hu/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 3
