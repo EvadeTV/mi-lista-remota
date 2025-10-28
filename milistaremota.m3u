@@ -7,6 +7,26 @@ http://179.1.68.245:7600/play/a0be/index.m3u8
 http://179.1.68.245:7600/play/a0c6/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" ,Tigo Sports HD
 http://200.35.176.154:8000/play/a0r6/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT Sports HD ARG
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TyC Sports HD
+http://181.13.252.102:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD ARG
+http://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD ARG
+http://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD ARG
+http://181.13.252.102:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN HD ARG
+http://181.13.252.102:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD ARG
+http://181.13.252.102:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 2 HD
+http://181.13.252.102:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD
+http://181.13.252.102:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports HD
+http://181.13.252.102:8000/play/a07j/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 2
 http://38.56.112.128:5000/play/a09u/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
@@ -187,6 +207,10 @@ http://148.72.155.144:8000/play/a00l/index.m3u8
 http://148.72.155.144:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="MUSICA",CUMBIA TV FLEX
 http://148.72.155.144:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="NOVELAS",TNT Novelas HD
+http://181.13.252.102:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="NOVELAS",TLNovelas
+http://181.13.252.102:8000/play/a0bm/index.m3u8
 #EXTINF:-1 group-title="-",CorazontvCWP
 http://148.72.155.144:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="-",DATAONLINEMICCUMBIA
