@@ -183,18 +183,6 @@ http://148.72.155.144:8000/play/a01i/index.m3u8
 http://148.72.155.144:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="-",MEDIAECOWIRE
 http://148.72.155.144:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="-",MEDIATVFAST
-http://148.72.155.144:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="-",MEDIATVGIMAX
-http://148.72.155.144:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="-",MEDIATVMETRO
-http://148.72.155.144:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="-",MEDIATVREDMAX
-http://148.72.155.144:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="-",MEDIATVTHUNDER
-http://148.72.155.144:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="-",MEDIATVTRANDEM
-http://148.72.155.144:8000/play/a019/index.m3u8
 #EXTINF:-1 group-title="-",MICCOCINADO
 http://148.72.155.144:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="-",MORADATV
@@ -217,24 +205,6 @@ http://148.72.155.144:8000/play/a008/index.m3u8
 http://148.72.155.144:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="-",SALASTVFAST
 http://148.72.155.144:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="-",SALSAECOWIRE
-http://148.72.155.144:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="-",SALSAGIMAX
-http://148.72.155.144:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="-",SALSATV WIN
-http://148.72.155.144:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="-",SALSATVCWP
-http://148.72.155.144:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="-",SALSATVFAST
-http://148.72.155.144:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="-",SALSATVMETRO
-http://148.72.155.144:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="-",SALSATVTRANDEN
-http://148.72.155.144:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="-",SALSATVredmax
-http://148.72.155.144:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="-",SALSAThunder
-http://148.72.155.144:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="-",TIGOCULTURATV
 http://148.72.155.144:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="-",TIGOCUMBIATV
@@ -255,22 +225,6 @@ http://148.72.155.144:8000/play/a02i/index.m3u8
 http://148.72.155.144:8000/play/a03l/index.m3u8
 #EXTINF:-1 group-title="-",URBANOECOWIRE
 http://148.72.155.144:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="-",URBANOGIMAX
-http://148.72.155.144:8000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="-",URBANOMIC
-http://148.72.155.144:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="-",URBANOTVCWP
-http://148.72.155.144:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="-",URBANOTVFAST
-http://148.72.155.144:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="-",URBANOTVMETRO
-http://148.72.155.144:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="-",URBANOTVREDMAX
-http://148.72.155.144:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="-",URBANOTVTRANDEN
-http://148.72.155.144:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="-",URBANOTVthunder
-http://148.72.155.144:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="-",cwpcultura
 http://148.72.155.144:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="-",cwpsalsa
@@ -281,6 +235,7 @@ http://148.72.155.144:8000/play/a01e/index.m3u8
 http://148.72.155.144:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="-",salsatvmic
 http://148.72.155.144:8000/play/a00d/index.m3u8
+
 
 
 
