@@ -3,8 +3,40 @@
 http://179.1.68.245:7600/play/a073/index.m3u8
 #EXTINF:-1 group-title="-",Win Sport + HD
 http://179.1.68.245:7600/play/a0be/index.m3u8
-#EXTINF:-1 group-title="-",Win sports +
-http://179.1.68.245:7600/play/a0c6/index.m3u8
+EXTINF:-1,ESPN
+http://200.35.176.154:8000/play/a03a/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://200.35.176.154:8000/play/a05a/index.m3u8
+#EXTINF:-1,ESPN 2
+http://200.35.176.154:8000/play/a03b/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://200.35.176.154:8000/play/a053/index.m3u8
+#EXTINF:-1,ESPN 3
+http://200.35.176.154:8000/play/a02d/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://200.35.176.154:8000/play/a054/index.m3u8
+#EXTINF:-1,ESPN 4
+http://200.35.176.154:8000/play/a057/index.m3u8
+#EXTINF:-1,ESPN 5
+http://200.35.176.154:8000/play/a058/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://200.35.176.154:8000/play/a059/index.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://200.35.176.154:8000/play/a055/index.m3u8
+#EXTINF:-1,ESPN HD
+http://200.35.176.154:8000/play/a0rm/index.m3u8
+#EXTINF:-1,Tigo Sports HD
+http://200.35.176.154:8000/play/a0r6/index.m3u8
+#EXTINF:-1,TELEMUNDO MIAMI
+http://200.35.176.154:8000/play/a04v/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
+http://200.35.176.154:8000/play/a0ry/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://200.35.176.154:8000/play/a0rk/index.m3u8
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://200.35.176.154:8000/play/a0rj/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://200.35.176.154:8000/play/a0rg/index.m3u8
 #EXTINF:-1 group-title="-",SPORTV
 http://45.175.61.242:8000/play/01/index.m3u8
 #EXTINF:-1 group-title="-",espnfhd
