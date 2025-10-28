@@ -137,36 +137,10 @@ http://200.35.176.154:8000/play/a059/index.m3u8
 http://200.35.176.154:8000/play/a055/index.m3u8
 #EXTINF:-1 group-title="PRUEBA" ,ESPN HD
 http://200.35.176.154:8000/play/a0rm/index.m3u8
-#EXTINF:-1 group-title="-",CAMPO ASTER
-http://148.72.155.144:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="-",CAMPOCEF
-http://148.72.155.144:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="-",CAMPOTVRD
-http://148.72.155.144:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="-",CAMPOWOW
-http://148.72.155.144:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="-",CORAZONTVMETRO
 http://148.72.155.144:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="-",CORAZONTVREDMAX
-http://148.72.155.144:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="-",CORAZONTVTRAMDEN
-http://148.72.155.144:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="-",CULTURAECOWIRE
 http://148.72.155.144:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="-",CULTURAFAST
-http://148.72.155.144:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="-",CULTURAGIMAX
-http://148.72.155.144:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="-",CULTURAMIC
-http://148.72.155.144:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="-",CULTURATVMETRO
-http://148.72.155.144:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="-",CULTURATVREDMAX
-http://148.72.155.144:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="-",CULTURATVTRADEM
-http://148.72.155.144:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="MUSICA",CULTURAtHUNDER
-http://148.72.155.144:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="MUSICA",CUMBIA TV FLEX
 http://148.72.155.144:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="-",CorazontvCWP
@@ -235,6 +209,7 @@ http://148.72.155.144:8000/play/a01e/index.m3u8
 http://148.72.155.144:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="-",salsatvmic
 http://148.72.155.144:8000/play/a00d/index.m3u8
+
 
 
 
