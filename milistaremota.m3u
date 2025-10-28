@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3Uurl-tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/Publico/guia-de-programacion.xml,https://edzeta.cl/epg/dgo/index.php,https://i.mjh.nz/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://edzeta.cl/epg/pelis.xml,https://edzeta.cl/epg/movistares.xml,https://edzeta.cl/epg/claro/chile.xml,https://edzeta.cl/epg/claro/argentina.xml,https://edzeta.cl/epg/claro/peru.xml,https://edzeta.cl/epg/claro/colombia.xml,https://edzeta.cl/epg/claro/paraguay.xml,https://edzeta.cl/epg/claro/panama.xml,https://edzeta.cl/epg/claro/costarica.xml,https://edzeta.cl/epg/claro/dominicana.xml,https://edzeta.cl/epg/test/guia.xml,https://edzeta.cl/epg/claro/ecuador.xml,https://edzeta.cl/epg/america.xml" tvg-shift=-3 catchup-days="1" url-logo="http://img.edzeta.cl/"
 #EXTINF:-1 group-title="DEPORTES",Win
 http://179.1.68.245:7600/play/a073/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",Win Sport + HD
