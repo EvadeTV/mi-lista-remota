@@ -169,20 +169,6 @@ http://148.72.155.144:8000/play/a017/index.m3u8
 http://148.72.155.144:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="MUSICA",CUMBIA TV FLEX
 http://148.72.155.144:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="MUSICA",CUMBIAECOWIRE
-http://148.72.155.144:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="MUSICA",CUMBIAGIMAX
-http://148.72.155.144:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="MUSICA",CUMBIAREDMAX
-http://148.72.155.144:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="MUSICA",CUMBIATVFAST
-http://148.72.155.144:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="MUSICA",CUMBIATVMETRO
-http://148.72.155.144:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="MUSICA",CUMBIATVTHUNDER
-http://148.72.155.144:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="-",CUMBIATVTRANDEN
-http://148.72.155.144:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="-",CorazontvCWP
 http://148.72.155.144:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="-",DATAONLINEMICCUMBIA
@@ -295,5 +281,6 @@ http://148.72.155.144:8000/play/a01e/index.m3u8
 http://148.72.155.144:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="-",salsatvmic
 http://148.72.155.144:8000/play/a00d/index.m3u8
+
 
 
