@@ -9,8 +9,6 @@ http://179.1.68.245:7600/play/a0c6/index.m3u8
 http://45.175.61.242:8000/play/01/index.m3u8
 #EXTINF:-1 group-title="-",espnfhd
 http://45.175.61.242:8000/play/004/index.m3u8
-#EXTINF:-1 group-title="-",globobrasilia
-http://45.175.61.242:8000/play/brasilia/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL 13
 http://200.113.4.75:7210/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHV
