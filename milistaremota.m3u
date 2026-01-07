@@ -78,7 +78,7 @@ http://45.175.61.242:8000/play/01/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",espnfhd
 http://45.175.61.242:8000/play/004/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun HD
-http://38.56.112.128:5000/play/a0e4/index.m3u8
+http://200.6.182.118:8123/play/a01i/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",TNT SPORTS HD
 http://38.56.112.128:5000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun SD
@@ -86,19 +86,19 @@ http://38.56.112.128:5000/play/a0am/index.m3u8
 #EXTINF:-1 group-title="-",TV PERU
 http://38.56.112.128:5000/play/a006/index.m3u8
 #EXTINF:-1 group-title="Chile",TVN
-http://38.56.112.128:5000/play/a0ag/index.m3u8
+177.128.113.1:8000/play/a04k
 #EXTINF:-1 group-title="Chile",TVN HD
-http://38.56.112.128:5000/play/a01i/index.m3u8
+http://200.6.182.118:8123/play/a06x/index.m3u8
 #EXTINF:-1 group-title="Chile",MEGA HD
-http://38.56.112.128:5000/play/a02h/index.m3u8
+http://38.56.112.128:5000/play/177.128.113.1:8000/play/a04x
 #EXTINF:-1 group-title="Chile" tvg-logo="http://127.0.0.1/", CANAL 13
-http://200.113.4.75:7210/play/a00a/index.m3u8
+http://200.6.182.118:8123/play/a04r/index.m3u8
 #EXTINF:-1 group-title="Chile",CHV HD
-http://38.56.112.128:5000/play/a01j/index.m3u8
+http://200.6.182.118:8123/play/a06y/index.m3u8
 #EXTINF:-1 group-title="Chile",CNN Chile HD
 http://38.56.112.128:5000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Chile",Canal 13 HD
-http://38.56.112.128:5000/play/a03a/index.m3u8
+177.128.113.1:8000/play/a085
 #EXTINF:-1 group-title="Chile",Canal 24 Horas HD
 http://38.56.112.128:5000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="Chile" tvg-logo="http://127.0.0.1/", CHV
