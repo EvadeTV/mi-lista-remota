@@ -98,6 +98,3 @@ http://179.63.189.198:8002/play/a08q/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", 134 - TELECAFE
 http://179.63.189.198:8002/play/a08r/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", 135 - TRO
-http://179.63.189.198:8002/play/a08s/index.m3u8
