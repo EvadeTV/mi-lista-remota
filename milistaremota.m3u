@@ -78,3 +78,14 @@ http://179.63.189.198:8002/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", 150 - CANAL TRECE TDT
 http://179.63.189.198:8002/play/c150/index.m3u8
+
+#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", 151 - win sports+
+http://190.60.41.107:8008/play/a0uc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", 152 - win sports
+http://190.60.41.107:8008/play/a0ot/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", 152 - win sports HD
+http://190.60.41.107:8008/play/a0qi/index.m3u8
