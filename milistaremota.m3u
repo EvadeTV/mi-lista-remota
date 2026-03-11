@@ -98,3 +98,25 @@ http://179.63.189.198:8002/play/a08q/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", 134 - TELECAFE
 http://179.63.189.198:8002/play/a08r/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN
+http://190.131.243.54:9000/play/a0jc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 2 HD
+http://190.131.243.54:9000/play/a0ev/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 3 HD
+http://190.131.243.54:9000/play/a0i9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 4 HDx
+http://190.131.243.54:9000/play/a0he/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 5 HD
+http://190.131.243.54:9000/play/a0i3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 6 HD
+http://190.131.243.54:9000/play/a0hy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 7HD
+http://190.131.243.54:9000/play/a0dz/index.m3u8
