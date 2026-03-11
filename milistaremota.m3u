@@ -4,7 +4,7 @@
 http://179.63.189.198:8002/play/c008/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", 003 - CARACOL HD
-http://179.63.189.198:8002/play/c003/index.m3u8
+http://38.196.178.254:8093/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", 004 - CITY TV HD
 http://179.63.189.198:8002/play/c004/index.m3u8
