@@ -103,6 +103,9 @@ http://179.63.189.198:8002/play/a08r/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN
 http://138.121.12.126:8000/play/a04d/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN opc2
+http://177.93.33.246:8100/play/a01o/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 2 HD
 http://190.131.243.54:9000/play/a0ev/index.m3u8
 
