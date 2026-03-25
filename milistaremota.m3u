@@ -12,6 +12,36 @@ http://168.228.44.241:9998/play/a0cx/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CANAL 5 MX X
 http://168.228.44.241:9998/play/a0cy/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", TVN
+http://181.78.88.113:9800/play/a09f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CHV
+http://181.78.88.113:9800/play/a05h/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 13 HD
+http://181.78.88.113:9800/play/a067/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 13 HD OPC2
+http://181.78.88.113:9800/play/a0b1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 24 HORAS
+http://181.78.88.113:9800/play/a09o/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN CHILE
+http://181.78.88.113:9800/play/a08s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", MEGA 
+http://181.78.88.113:9800/play/a066/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", MEGA 2
+http://181.78.88.113:9800/play/a0ai/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN PREMIUM CHILE
+http://181.78.88.113:9800/play/a0bg/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CANAL 5 X
 http://168.228.44.241:9998/play/a09i/index.m3u8
 
@@ -356,9 +386,15 @@ http://190.131.243.54:9000/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7HD
 http://190.131.243.54:9000/play/a0dz/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM OPC 3
+http://181.78.88.113:9800/play/a0bz/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM 
 http://177.93.46.243:50000/play/a040/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS 
+http://181.78.88.113:9800/play/a0b2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://marketingdesigne.com/wp-content/uploads/2023/03/Mk-Digital-Social-Premium-2301.png" group-title="DEPORTES",TNT Sports Premiun HD OPC2
 http://38.226.210.46:8000/play/a05m/index.m3u8
