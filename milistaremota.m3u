@@ -6,6 +6,51 @@ http://168.228.44.241:9998/play/a0cf/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", AZTECA 1 X
 http://168.228.44.241:9998/play/a0a8/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", OLD MUSIC
+http://38.250.125.162:9800/play/046/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KARAVANA TV
+http://38.250.125.162:9800/play/047/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KARAVANA URBANO
+http://38.250.125.162:9800/play/048/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KIZZY
+http://38.250.125.162:9800/play/051/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX SERIES
+http://38.250.125.162:9800/play/066/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX CLASSIC
+http://38.250.125.162:9800/play/077/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", LAS ESTRELLAS 
+http://38.250.125.162:9800/play/017/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", KANAL D DRAMA
+http://38.250.125.162:9800/play/012/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", PASIONES
+http://38.250.125.162:9800/play/014/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", TL NOVELAS
+http://38.250.125.162:9800/play/015/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", LADIES
+http://38.250.125.162:9800/play/018/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX OLD
+http://38.250.125.162:9800/play/079/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX DRAMA
+http://38.250.125.162:9800/play/078/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", STINGRAY CONCERT
+http://38.250.125.162:9800/play/054/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", AZTECA 7 MX X
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 
