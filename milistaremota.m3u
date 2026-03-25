@@ -176,6 +176,33 @@ http://168.228.44.241:9998/play/a06c/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN HD MX
 http://168.228.44.241:9998/play/a069/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 
+http://138.121.114.91:8000/play/a099/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN PREMIUM ARG
+http://138.121.114.91:8000/play/a086/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS ARG
+http://138.121.114.91:8000/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 3 ARG
+http://138.121.114.91:8000/play/a06y/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TYC SPORTS ARG
+http://138.121.114.91:8000/play/a06x/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS ARG
+http://138.121.114.91:8000/play/a06z/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 2 ARG
+http://138.121.114.91:8000/play/a09b/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN CATA
 http://168.228.44.241:9998/play/a048/index.m3u8
 
