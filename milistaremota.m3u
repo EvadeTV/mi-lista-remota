@@ -302,6 +302,12 @@ http://179.63.189.198:8002/play/a08v/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH ANIMATION
 http://179.63.189.198:8002/play/a08g/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH KIDS
+http://38.250.125.162:9800/play/080/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH REWIND
+http://38.250.125.162:9800/play/087/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 145 - CARACOL HD 2 TDT
 http://179.63.189.198:8002/play/a08y/index.m3u8
@@ -390,11 +396,14 @@ http://190.131.243.54:9000/play/a0dz/index.m3u8
 http://181.78.88.113:9800/play/a0bz/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM 
-http://177.93.46.243:50000/play/a040/index.m3u8
+http://38.250.125.162:9800/play/110/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS 
 http://181.78.88.113:9800/play/a0b2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS OPC 2
+http://38.250.125.162:9800/play/a0du/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://marketingdesigne.com/wp-content/uploads/2023/03/Mk-Digital-Social-Premium-2301.png" group-title="DEPORTES",TNT Sports Premiun HD OPC2
 http://38.226.210.46:8000/play/a05m/index.m3u8
