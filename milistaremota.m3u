@@ -81,6 +81,10 @@ http://38.250.125.162:9800/play/008/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN CHILE
 http://181.78.88.113:9800/play/a08s/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", BEIN SPORTS EXTRA
+http://45.189.62.33:8002/play/a0np/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", MEGA 
 http://38.250.125.162:9800/play/005/index.m3u8
 
