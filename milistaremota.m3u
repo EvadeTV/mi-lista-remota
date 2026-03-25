@@ -213,7 +213,7 @@ http://179.63.189.198:8002/play/c008/index.m3u8
 http://38.196.178.254:8093/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 003 - CARACOL HD opc2
-http://181.79.92.109:7778/play/a05a/index.m3u8
+http://181.78.14.26:4000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 003 - CARACOL HD opc3
 http://38.196.178.253:8093/play/a00q/index.m3u8
