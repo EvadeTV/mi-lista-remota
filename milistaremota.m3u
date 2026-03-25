@@ -286,7 +286,7 @@ http://179.63.189.198:8002/play/z008/index.m3u8
 http://179.63.189.198:8002/play/a090W/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 148 - RCN HD 2 TDT
-http://179.63.189.198:8002/play/a091/index.m3u8
+http://181.78.14.26:4000/play/a07m/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 149 - LA KALLE
 http://179.63.189.198:8002/play/a080/index.m3u8
