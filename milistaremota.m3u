@@ -209,6 +209,10 @@ http://168.228.44.241:9998/play/a048/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN X
 http://168.228.44.241:9998/play/a0b0/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", SKY SPORTS LA LIGA
+http://201.190.41.246:8890/play/a02h/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery Channel
 http://168.228.44.241:9998/play/a04k/index.m3u8
 
@@ -269,6 +273,10 @@ http://168.228.44.241:9998/play/a056/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Tooncast
 http://168.228.44.241:9998/play/a04d/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", MAX ANIME
+http://201.190.41.246:8890/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT
 http://168.228.44.241:9998/play/a023/index.m3u8
