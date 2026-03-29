@@ -424,6 +424,10 @@ http://179.63.189.198:8002/play/z008/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 147 - RCN TDT
 http://179.63.189.198:8002/play/a090W/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 147 - RCN OPC2
+http://209.14.118.1:8000/play/a0y0/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 148 - RCN HD 2 TDT
 http://181.78.14.26:4000/play/a07m/index.m3u8
 
