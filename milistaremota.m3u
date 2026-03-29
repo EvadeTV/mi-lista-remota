@@ -79,6 +79,10 @@ http://38.250.125.162:9800/play/004/index.m3u8
 http://181.78.88.113:9800/play/a05h/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CHV NOTICIAS 
+http://190.93.229.30:8000/play/a07k/index.m3u8?hls
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 13 HD
 http://38.250.125.162:9800/play/007/index.m3u8
 
