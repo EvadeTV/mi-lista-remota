@@ -482,8 +482,20 @@ http://181.118.153.151:8000/play/a04l/index.m3u8
 http://157.100.9.51:8000/play/a1rr
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", Win Sports+ HD 
-http://181.79.81.145:8000/play/a1g9
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WIN SPORTS", Win Sports+ HD 
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WIN SPORTS", Win Sports+ HD OPC2
+http://209.14.118.7:8000/play/a0wr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WIN SPORTS", Win Sports+ HD OPC3
+http://209.14.118.1:8000/play/a0wr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WIN SPORTS", Win Sports 
+http://190.60.54.158:8000/play/a0b0/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 131 - TELEPACIFICO
 http://179.63.189.198:8002/play/a08oX/index.m3u8
@@ -500,8 +512,8 @@ http://179.63.189.198:8002/play/a08r/index.m3u8
 #EXTINF:-1 tvg-logo="https://marketingdesigne.com/wp-content/uploads/2023/03/Mk-Digital-Social-Premium-2301.png" group-title="DEPORTES",DSPORTS_HD
 http://38.226.210.46:8000/play/A008/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NUGOqdT.png" group-title="DEPORTES", Dsports FHD ✪ | (New)
-http://38.224.231.98:8000/play/a0tl/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NUGOqdT.png" group-title="DEPORTES", Dsports FHD
+http://179.43.96.253:8000/play/a24w/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN COLOMBIA
