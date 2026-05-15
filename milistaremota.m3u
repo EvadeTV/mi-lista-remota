@@ -1,5 +1,7 @@
 #EXTM3U 
 
+https://xtream-masters.com/epg/
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", DSPORTS
 http://167.17.67.240:8888/DSPORTS/tracks-v1a1/mono.m3u8
