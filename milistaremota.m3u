@@ -107,7 +107,7 @@ http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", TVN HD
-http://38.250.125.162:9800/play/004/index.m3u8
+http://190.235.207.217:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CHV
 http://190.235.207.217:8000/play/a0i2/index.m3u8
@@ -118,7 +118,7 @@ http://190.93.229.30:8000/play/a07k/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 13 HD
-http://38.250.125.162:9800/play/007/index.m3u8
+http://190.235.207.217:8000/play/a0tj/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 13 HD OPC2
 http://181.78.88.113:9800/play/a0b1/index.m3u8
@@ -129,7 +129,7 @@ http://38.7.223.20:8000/play/a0hz
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 24 HORAS
-http://38.250.125.162:9800/play/008/index.m3u8
+http://190.235.207.217:8000/play/a0vh/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN CHILE
@@ -140,7 +140,7 @@ http://181.78.88.113:9800/play/a08s/index.m3u8
 http://45.189.62.33:8002/play/a0np/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", MEGA 
-http://38.250.125.162:9800/play/005/index.m3u8
+http://190.235.207.217:8000/play/a0ie/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", MEGA 2
 http://181.78.88.113:9800/play/a0ai/index.m3u8
@@ -244,7 +244,7 @@ http://138.121.114.91:8000/play/a086/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS ARG
-http://138.121.114.91:8000/play/a085/index.m3u8
+http://190.235.207.217:8000/play/a18x/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 3 ARG
 http://138.121.114.91:8000/play/a06y/index.m3u8
@@ -259,7 +259,7 @@ http://138.121.114.91:8000/play/a06z/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 2 ARG
-http://138.121.114.91:8000/play/a09b/index.m3u8
+http://190.235.207.217:8000/play/a18y/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN CATA
 http://168.228.44.241:9998/play/a048/index.m3u8
@@ -565,7 +565,7 @@ http://190.131.243.54:9000/play/a0dz/index.m3u8
 http://181.78.88.113:9800/play/a0bz/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM 
-http://38.250.125.162:9800/play/110/index.m3u8
+http://190.235.207.217:8000/play/a0i4/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS 
