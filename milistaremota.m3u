@@ -10,6 +10,34 @@ https://xtream-masters.com/epg/
 https://iptv-epg.org/files/epg-mx.xml
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Memorias", Memorias Clasics
+http://181.78.67.171:8000/play/a0xp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Memorias", Memorias Corazon
+http://181.78.67.171:8000/play/a0xq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Memorias", Memorias Film
+http://181.78.67.171:8000/play/a0xr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Memorias", Memorias Pop
+http://181.78.67.171:8000/play/a0xu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Memorias", Memorias Salsa
+http://181.78.67.171:8000/play/a0xs/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Memorias", Memorias Series
+http://181.78.67.171:8000/play/a0xx/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Memorias", Memorias Toons
+http://181.78.67.171:8000/play/a0xt/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Memorias", Cine MX
+http://181.78.67.171:8000/play/a0yd/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", FOX COSTA RICA
 http://190.235.207.217:8000/play/a191/index.m3u8
 
