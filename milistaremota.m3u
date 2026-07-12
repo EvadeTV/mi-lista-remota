@@ -1,6 +1,13 @@
-#EXTM3U url-tvg="https://www.open-epg.com/generate/yhpXUCvrVk.xml"
+#EXTM3U
+ url-tvg="https://www.open-epg.com/generate/yhpXUCvrVk.xml"
+
+https://iptv-epg.org/files/epg-cl.xml
+
+https://iptv-epg.org/files/epg-ar.xml
 
 https://xtream-masters.com/epg/
+
+https://iptv-epg.org/files/epg-mx.xml
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", FOX COSTA RICA
