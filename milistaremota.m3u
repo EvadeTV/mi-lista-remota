@@ -160,7 +160,7 @@ http://190.93.229.30:8000/play/a07k/index.m3u8?hls
 http://190.235.207.217:8000/play/a0tj/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 13 HD OPC2
-http://181.78.88.113:9800/play/a067/index.m3u8
+http://190.90.154.125:2025/play/a0h6/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", T13 HD 
