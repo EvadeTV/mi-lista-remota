@@ -62,7 +62,7 @@ http://38.250.125.162:9800/play/047/index.m3u8
 http://38.250.125.162:9800/play/048/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KIZZY
-http://38.250.125.162:9800/play/051/index.m3u8
+http://181.78.67.171:8000/play/a11u/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX SERIES
 http://38.250.125.162:9800/play/066/index.m3u8
@@ -409,10 +409,10 @@ http://179.63.189.198:8002/play/c001/index.m3u8
 http://179.63.189.198:8002/play/c003/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 055 - FMH FAMILY
-http://45.181.120.147:9800/play/080/index.m3u8
+http://181.78.67.171:8000/play/a0xl/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 053 - FMH MOVIE
-http://45.181.120.147:9800/play/082/index.m3u8
+http://181.78.67.171:8000/play/a0x9/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 043 - FREE ACCION
 http://179.63.189.198:8002/play/c043/index.m3u8
@@ -448,10 +448,10 @@ http://179.63.189.198:8002/play/a08v/index.m3u8
 http://179.63.189.198:8002/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH KIDS
-http://45.181.120.147:9800/play/081/index.m3u8
+http://181.78.67.171:8000/play/a0xk/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH REWIND
-http://38.250.125.162:9800/play/087/index.m3u8
+http://181.78.67.171:8000/play/a0xo/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 145 - CARACOL HD 2 TDT
