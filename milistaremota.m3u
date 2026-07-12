@@ -133,7 +133,7 @@ http://181.78.88.113:9800/play/a09o/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN CHILE
-http://181.78.88.113:9800/play/a08s/index.m3u8
+http://181.78.67.171:8000/play/a0j7/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", BEIN SPORTS EXTRA
