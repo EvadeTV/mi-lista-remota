@@ -53,7 +53,7 @@ http://168.228.44.241:9998/play/a0cf/index.m3u8
 http://168.228.44.241:9998/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", OLD MUSIC
-http://38.250.125.162:9800/play/046/index.m3u8
+http://45.181.120.147:9800/play/079/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KARAVANA TV
 http://38.250.125.162:9800/play/047/index.m3u8
@@ -68,7 +68,7 @@ http://38.250.125.162:9800/play/051/index.m3u8
 http://38.250.125.162:9800/play/066/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX CLASSIC
-http://38.250.125.162:9800/play/077/index.m3u8
+http://45.181.120.147:9800/play/077/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", LAS ESTRELLAS 
@@ -95,7 +95,7 @@ http://38.250.125.162:9800/play/018/index.m3u8
 http://38.250.125.162:9800/play/079/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX DRAMA
-http://38.250.125.162:9800/play/078/index.m3u8
+http://45.181.120.147:9800/play/078/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", STINGRAY CONCERT
 http://38.250.125.162:9800/play/054/index.m3u8
@@ -121,7 +121,7 @@ http://190.93.229.30:8000/play/a07k/index.m3u8?hls
 http://190.235.207.217:8000/play/a0tj/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 13 HD OPC2
-http://181.78.88.113:9800/play/a0b1/index.m3u8
+http://181.78.88.113:9800/play/a067/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", T13 HD 
@@ -129,7 +129,7 @@ http://38.7.223.20:8000/play/a0hz
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 24 HORAS
-http://190.235.207.217:8000/play/a0vh/index.m3u8
+http://181.78.88.113:9800/play/a09o/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN CHILE
@@ -409,10 +409,10 @@ http://179.63.189.198:8002/play/c001/index.m3u8
 http://179.63.189.198:8002/play/c003/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 055 - FMH FAMILY
-http://179.63.189.198:8002/play/a08m/index.m3u8
+http://45.181.120.147:9800/play/080/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 053 - FMH MOVIE
-http://179.63.189.198:8002/play/a0b8/index.m3u8
+http://45.181.120.147:9800/play/082/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 043 - FREE ACCION
 http://179.63.189.198:8002/play/c043/index.m3u8
@@ -448,7 +448,7 @@ http://179.63.189.198:8002/play/a08v/index.m3u8
 http://179.63.189.198:8002/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH KIDS
-http://38.250.125.162:9800/play/080/index.m3u8
+http://45.181.120.147:9800/play/081/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH REWIND
 http://38.250.125.162:9800/play/087/index.m3u8
@@ -569,10 +569,10 @@ http://190.235.207.217:8000/play/a0i4/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS 
-http://209.14.118.1:8000/play/a0wf/index.m3u8
+http://181.78.88.113:9800/play/a0b2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS OPC 2
-http://38.250.125.162:9800/play/a0du/index.m3u8
+http://45.181.120.147:9800/play/121/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://marketingdesigne.com/wp-content/uploads/2023/03/Mk-Digital-Social-Premium-2301.png" group-title="DEPORTES",TNT Sports Premiun HD OPC2
-http://38.226.210.46:8000/play/a05m/index.m3u8
+http://181.78.88.113:9800/play/a0bz/index.m3u8
