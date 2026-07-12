@@ -528,10 +528,19 @@ http://179.63.189.198:8002/play/a08q/index.m3u8
 http://179.63.189.198:8002/play/a08r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://marketingdesigne.com/wp-content/uploads/2023/03/Mk-Digital-Social-Premium-2301.png" group-title="DEPORTES",DSPORTS_HD
-http://38.226.210.46:8000/play/A008/index.m3u8
+http://oscam281w.ooguy.com:5000/lucho/1234/Deportes/a0h6/index.m3u8?device_id=96528064f609
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUGOqdT.png" group-title="DEPORTES", Dsports FHD
 http://179.43.96.253:8000/play/a24w/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NUGOqdT.png" group-title="DEPORTES", Dsports 2
+http://oscam281w.ooguy.com:5000/lucho/1234/Deportes/a0h4/index.m3u8?device_id=96528064f609
+
+
+#EXTINF:-1 tvg-logo="https:" group-title="DEPORTES", TV publica 
+http://oscam281w.ooguy.com:5000/lucho/1234/Noticias/a0cd/index.m3u8?device_id=96528064f609
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN COLOMBIA
