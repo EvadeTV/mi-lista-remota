@@ -14,6 +14,10 @@ http://190.235.207.217:8000/play/a190/index.m3u8
 http://190.235.207.217:8000/play/a13s/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", TELEMUNDO HD
+http://45.181.87.106:80/TELEMUNDOHD/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", DSPORTS 2
