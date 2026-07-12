@@ -18,6 +18,10 @@ http://181.78.217.65:13000/play/a08h/index.m3u8
 http://168.228.44.241:9999/play/a02g/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Eventos", Eventos 3
+http://45.172.92.111:8000/play/a02d/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Memorias", Memorias Clasics
 http://181.78.67.171:8000/play/a0xp/index.m3u8
 
