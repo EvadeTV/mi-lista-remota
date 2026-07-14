@@ -198,7 +198,7 @@ http://181.78.67.171:8000/play/a0j7/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", BEIN SPORTS EXTRA
-http://45.189.62.33:8002/play/a0np/index.m3u8
+http://45.239.31.254:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", MEGA 
 http://190.235.207.217:8000/play/a0ie/index.m3u8
@@ -396,6 +396,15 @@ http://168.228.44.241:9998/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", BABY FIRST
 http://181.118.153.151:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", ZANIME
+http://45.239.31.254:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", ZKIDS
+http://45.239.31.254:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", ZTV2
+http://45.239.31.254:8000/play/a00y/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", MAX ANIME
