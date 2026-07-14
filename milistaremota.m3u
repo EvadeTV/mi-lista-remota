@@ -110,22 +110,26 @@ http://168.228.44.241:9998/play/a0cf/index.m3u8
 http://168.228.44.241:9998/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", OLD MUSIC
-http://45.181.120.147:9800/play/079/index.m3u8
+http://45.181.120.147:9800/play/046/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KARAVANA TV
-http://38.250.125.162:9800/play/047/index.m3u8
+http://45.181.120.147:9800/play/047/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KARAVANA URBANO
-http://38.250.125.162:9800/play/048/index.m3u8
+http://45.181.120.147:9800/play/048/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KIZZY
 http://181.78.67.171:8000/play/a11u/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX SERIES
-http://38.250.125.162:9800/play/066/index.m3u8
+http://45.181.120.147:9800/play/066/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX CLASSIC
 http://45.181.120.147:9800/play/077/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX PRIME 
+http://45.181.120.147:9800/play/076/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", LAS ESTRELLAS 
@@ -143,13 +147,13 @@ http://38.250.125.162:9800/play/012/index.m3u8
 http://38.250.125.162:9800/play/014/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", TL NOVELAS
-http://38.250.125.162:9800/play/015/index.m3u8
+http://45.181.120.147:9800/play/015/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", LADIES
 http://38.250.125.162:9800/play/018/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX OLD
-http://38.250.125.162:9800/play/079/index.m3u8
+http://45.181.120.147:9800/play/079/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX DRAMA
 http://45.181.120.147:9800/play/078/index.m3u8
@@ -335,7 +339,7 @@ http://168.228.44.241:9998/play/a04k/index.m3u8
 http://168.228.44.241:9998/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery Home & Health
-http://168.228.44.241:9998/play/a05q/index.m3u8
+http://45.181.120.147:9800/play/095/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery ID HD
 http://168.228.44.241:9998/play/a08t/index.m3u8
@@ -419,7 +423,7 @@ http://168.228.44.241:9998/play/a00h/index.m3u8
 http://168.228.44.241:9998/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery World HD
-http://168.228.44.241:9998/play/a06h/index.m3u8
+http://45.181.120.147:9800/play/100/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Disney
 http://168.228.44.241:9998/play/a05n/index.m3u8
