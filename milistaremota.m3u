@@ -4,6 +4,12 @@ http://181.78.88.113:9800/play/a0bz/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM 
 http://190.235.207.217:8000/play/a0i4/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WIN SPORTS +
+http://186.194.62.114:18000/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WIN SPORTS + OPC 2
+http://186.33.57.71:9000/play/a092/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS 
 http://181.78.88.113:9800/play/a0b2/index.m3u8
