@@ -1,8 +1,30 @@
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM OPC 3
 http://181.78.88.113:9800/play/a0bz/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM 4
 http://190.235.207.217:8000/play/a0i4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM 5
+http://38.7.204.230:8002/play/a01n/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM 6
+http://38.7.204.226:8002/play/a01n/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM 7
+http://38.7.204.227:8002/play/a01n/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM 8
+http://38.7.204.229:8002/play/a01n/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM 9
+http://152.230.246.26:8001/play/a018/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WIN SPORTS +
 http://186.194.62.114:18000/play/a04q/index.m3u8
